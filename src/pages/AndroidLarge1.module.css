@@ -1,0 +1,23 @@
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 739px;
+  object-fit: cover;
+}
+.image2Icon {
+  top: 18px;
+  left: 204px;
+  width: 23px;
+  height: 23px;
+  cursor: pointer;
+}
+.androidLarge2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--schemes-on-primary);
+  height: 800px;
+  overflow: hidden;
+}

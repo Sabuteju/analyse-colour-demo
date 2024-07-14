@@ -1,0 +1,51 @@
+.myntra1Icon {
+  position: absolute;
+  top: 276px;
+  left: 60px;
+  width: 262px;
+  height: 207px;
+  object-fit: cover;
+}
+.indiasBiggestOnline {
+  position: absolute;
+  top: 520px;
+  left: 94px;
+  display: inline-block;
+  width: 228px;
+  height: 24px;
+  text-shadow: 1px 0 0#ff8f2c, 0 1px 0#ff8f2c, -1px 0 0#ff8f2c, 0-1px 0#ff8f2c;
+  mix-blend-mode: normal;
+}
+.androidLarge1Child {
+  position: absolute;
+  top: -94px;
+  left: -5px;
+  border-radius: 50%;
+  background-color: var(--color-deeppink-100);
+  width: 371px;
+  height: 248px;
+}
+.androidLarge1Item {
+  position: absolute;
+  top: -34px;
+  left: -142px;
+  border-radius: 50%;
+  background-color: #ff8f2c;
+  width: 274px;
+  height: 310px;
+}
+.androidLarge1 {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--schemes-on-primary);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 800px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--m3-body-small-size);
+  color: var(--color-deeppink-100);
+  font-family: var(--font-montserrat);
+}

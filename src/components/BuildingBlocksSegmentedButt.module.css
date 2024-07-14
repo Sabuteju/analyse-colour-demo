@@ -1,0 +1,44 @@
+.selectedIcon {
+  width: 18px;
+  position: relative;
+  height: 18px;
+}
+.labelText {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.stateLayer {
+  display: none;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+  gap: var(--gap-5xs);
+}
+.buildingBlockssegmentedButt,
+.container,
+.stateLayer {
+  width: 108px;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.container {
+  align-self: stretch;
+  border-radius: 0 var(--br-81xl) var(--br-81xl) 0;
+  background-color: var(--schemes-secondary-container);
+  border: 1px solid var(--schemes-outline);
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+}
+.buildingBlockssegmentedButt {
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) 0;
+  text-align: center;
+  font-size: var(--m3-label-large-size);
+  color: var(--schemes-on-secondary-container);
+  font-family: var(--m3-body-small);
+}

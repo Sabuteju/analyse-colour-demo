@@ -1,0 +1,187 @@
+.androidLarge13Child {
+  position: absolute;
+  top: -75px;
+  left: -100px;
+  border-radius: 50%;
+  background-color: var(--color-mediumvioletred-100);
+  width: 310px;
+  height: 333px;
+}
+.androidLarge13Item {
+  position: absolute;
+  top: 241px;
+  left: 50px;
+  border-radius: 77.5px;
+  background-color: rgba(235, 0, 139, 0.55);
+  width: 298px;
+  height: 155px;
+}
+.image4 {
+  position: absolute;
+  top: 11px;
+  left: 25px;
+  width: 318px;
+  height: 322px;
+}
+.androidLarge13Child1,
+.androidLarge13Inner,
+.ellipseDiv {
+  position: absolute;
+  top: 530px;
+  left: 260px;
+  border-radius: 50%;
+  background-color: var(--color-firebrick);
+  width: 167px;
+  height: 175px;
+}
+.androidLarge13Child1,
+.ellipseDiv {
+  top: 511px;
+  left: -28px;
+  background-color: var(--color-darkolivegreen);
+  width: 166px;
+  height: 138px;
+}
+.androidLarge13Child1 {
+  top: 574px;
+  left: 97.7px;
+  background-color: var(--color-palevioletred-100);
+  width: 180px;
+  height: 147px;
+  transform: rotate(0.7deg);
+  transform-origin: 0 0;
+}
+.androidLarge13Child2,
+.androidLarge13Child3 {
+  position: absolute;
+  top: 580px;
+  left: -48px;
+  border-radius: 50%;
+  background-color: var(--color-salmon);
+  width: 158px;
+  height: 188px;
+}
+.androidLarge13Child3 {
+  top: 651px;
+  left: 96.1px;
+  background-color: var(--color-darkslategray-100);
+  width: 194px;
+  height: 119px;
+  transform: rotate(-2.9deg);
+  transform-origin: 0 0;
+}
+.androidLarge13Child4 {
+  position: absolute;
+  top: 723px;
+  left: 169px;
+  border-radius: 50%;
+  background-color: var(--color-palevioletred-200);
+  width: 185px;
+  height: 123px;
+}
+.androidLarge13Child5,
+.androidLarge13Child6 {
+  position: absolute;
+  top: 700px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-skyblue-100);
+  width: 175px;
+  height: 168px;
+}
+.androidLarge13Child6 {
+  top: 646px;
+  left: 277px;
+  background-color: var(--color-lightseagreen);
+  width: 186px;
+  height: 154px;
+}
+.androidLarge13Child7,
+.rectangleDiv {
+  position: absolute;
+  top: 471px;
+  left: 115px;
+  background-color: var(--color-thistle);
+  width: 138px;
+  height: 25px;
+}
+.androidLarge13Child7 {
+  top: 421px;
+  left: 111px;
+}
+.suggestOutfits {
+  position: absolute;
+  top: 425px;
+  left: 120px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 128px;
+  height: 16px;
+  cursor: pointer;
+}
+.saved {
+  top: -57px;
+  left: 55px;
+  font-size: var(--title-hero-size);
+  letter-spacing: -0.03em;
+  line-height: 120%;
+  font-family: var(--subtitle);
+  color: rgba(235, 0, 139, 0.58);
+  width: 306px;
+  height: 413px;
+  text-shadow: 1px 0 0 rgba(235, 0, 139, 0.26), 0 1px 0 rgba(235, 0, 139, 0.26),
+    -1px 0 0 rgba(235, 0, 139, 0.26), 0-1px 0 rgba(235, 0, 139, 0.26);
+}
+.goToMyntra,
+.saved,
+.startYourShopping {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.startYourShopping {
+  top: 274px;
+  left: 42px;
+  font-size: var(--heading-size);
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: var(--subtitle);
+  width: 319px;
+  height: 100px;
+}
+.goToMyntra {
+  top: 481px;
+  left: 122px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  font-weight: 500;
+  width: 126px;
+  height: 10px;
+  cursor: pointer;
+}
+.androidLarge15,
+.androidLarge16 {
+  background-color: var(--schemes-on-primary);
+  height: 800px;
+  overflow: hidden;
+}
+.androidLarge15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+}
+.androidLarge16 {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  font-size: var(--m3-label-large-size);
+  color: var(--color-black);
+  font-family: var(--m3-body-small);
+}
